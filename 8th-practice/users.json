@@ -1,0 +1,29 @@
+{
+    "users": [
+      {
+        "login": "login1",
+        "sessionLast": "23.07.21 13:33",
+        "sessionTime": "10:11"
+      },
+      {
+        "login": "login2",
+        "sessionLast": "11.04.21 19:03",
+        "sessionTime": "5:55"
+      },
+      {
+        "login": "login3",
+        "sessionLast": "01.01.21 23:58",
+        "sessionTime": "24:13"
+      },
+      {
+        "login": "login4",
+        "sessionLast": "06.07.21 7:32",
+        "sessionTime": "13:32"
+      },
+      {
+        "login": "login5",
+        "sessionLast": "10.12.21 8:00",
+        "sessionTime": "56:43"
+      }
+    ]
+}
