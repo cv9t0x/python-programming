@@ -1,1 +1,1 @@
-# Homework for the «Python programming» course
+# Homework of the second semester for the «Python programming» course
